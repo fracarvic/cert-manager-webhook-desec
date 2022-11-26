@@ -19,3 +19,4 @@ testdata/desec/desec-token.yaml
 
 # output dir
 _out
+_test
